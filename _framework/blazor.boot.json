@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Blazor Practice",
   "resources": {
-    "hash": "sha256-cU6P5cfA9v07lgKQ9m2ilYvb0LZbUnwgFyJDC1GxoII=",
+    "hash": "sha256-YZ8gv0dwApXm2j46Mfr95e4pLbV4BTAtDZc+MQB/WSI=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.k4tgbkyhnk.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -17,8 +17,8 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Blazor Practice.wasm": "sha256-Dz5D27vIIswhkauZhVE3PT9w621ZcNVQdalqdsUVxzM=",
-      "Components.wasm": "sha256-Y84S1vb/5w7J6R3e5ox5Zkvn6VWSmexjl7dEK+DMDY0=",
+      "Blazor Practice.wasm": "sha256-BSr389UI7Oqpl3ifA3RD0C3ItSmyhZGoFajUG8zcBDg=",
+      "Components.wasm": "sha256-QajcEZb8+9DY6LGBkl1hsv92pnQFOPoVlzp5mT1kf4Y=",
       "dotnet-aspnet-codegenerator-design.wasm": "sha256-UKo1Xnd3fannWriR1SwRVKWc3lz0nDx8COEqBdZfX94=",
       "Humanizer.wasm": "sha256-4NbSboZzzP9nikRtXapUZNzOyITt7ht9TNqCIQHr5OE=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-+lYbOT+MFAjn1S4Daivrrfrh7aVFdy5KJeS3mTgVh+A=",
